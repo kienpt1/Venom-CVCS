@@ -1,0 +1,114 @@
+2025/07/03-15:13:13.619 2fe Reusing MANIFEST /app/tokens/sessionName_0001/Default/Local Storage/leveldb/MANIFEST-000001
+2025/07/03-15:13:13.622 2fe Recovering log #3
+2025/07/03-15:13:13.622 2fe Reusing old log /app/tokens/sessionName_0001/Default/Local Storage/leveldb/000003.log 
+2025/07/04-11:14:26.132 2fe Level-0 table #5: started
+2025/07/04-11:14:26.137 2fe Level-0 table #5: 17262 bytes OK
+2025/07/04-11:14:26.140 2fe Delete type=0 #3
+2025/07/06-06:06:30.159 2fe Level-0 table #7: started
+2025/07/06-06:06:30.164 2fe Level-0 table #7: 11361 bytes OK
+2025/07/06-06:06:30.166 2fe Delete type=0 #4
+2025/07/07-18:08:19.897 2fc Level-0 table #9: started
+2025/07/07-18:08:19.900 2fc Level-0 table #9: 11847 bytes OK
+2025/07/07-18:08:19.902 2fc Delete type=0 #6
+2025/07/09-05:50:06.815 2fe Level-0 table #11: started
+2025/07/09-05:50:06.819 2fe Level-0 table #11: 13300 bytes OK
+2025/07/09-05:50:06.821 2fe Delete type=0 #8
+2025/07/10-07:11:26.994 2fe Level-0 table #13: started
+2025/07/10-07:11:26.998 2fe Level-0 table #13: 12660 bytes OK
+2025/07/10-07:11:27.000 2fe Delete type=0 #10
+2025/07/11-13:53:04.957 2fe Level-0 table #15: started
+2025/07/11-13:53:04.962 2fe Level-0 table #15: 11920 bytes OK
+2025/07/11-13:53:04.966 2fe Delete type=0 #12
+2025/07/11-13:53:04.968 2fe Compacting 4@0 + 1@1 files
+2025/07/11-13:53:04.973 2fe Generated table #16@0: 13 keys, 2736 bytes
+2025/07/11-13:53:04.973 2fe Compacted 4@0 + 1@1 files => 2736 bytes
+2025/07/11-13:53:04.974 2fe compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/11-13:53:04.975 2fe Delete type=2 #15
+2025/07/11-13:53:04.975 2fe Delete type=2 #7
+2025/07/11-13:53:04.975 2fe Delete type=2 #11
+2025/07/11-13:53:04.975 2fe Delete type=2 #9
+2025/07/11-13:53:04.975 2fe Delete type=2 #13
+2025/07/12-20:44:47.877 2fe Level-0 table #18: started
+2025/07/12-20:44:47.881 2fe Level-0 table #18: 12208 bytes OK
+2025/07/12-20:44:47.884 2fe Delete type=0 #14
+2025/07/14-15:14:10.488 2fe Level-0 table #20: started
+2025/07/14-15:14:10.492 2fe Level-0 table #20: 11567 bytes OK
+2025/07/14-15:14:10.496 2fe Delete type=0 #17
+2025/07/15-15:28:08.634 2fe Level-0 table #22: started
+2025/07/15-15:28:08.638 2fe Level-0 table #22: 12629 bytes OK
+2025/07/15-15:28:08.641 2fe Delete type=0 #19
+2025/07/16-10:18:54.708 2fe Level-0 table #24: started
+2025/07/16-10:18:54.712 2fe Level-0 table #24: 13215 bytes OK
+2025/07/16-10:18:54.715 2fe Delete type=0 #21
+2025/07/16-10:18:54.716 2fe Compacting 4@0 + 1@1 files
+2025/07/16-10:18:54.721 2fe Generated table #25@0: 13 keys, 2729 bytes
+2025/07/16-10:18:54.722 2fe Compacted 4@0 + 1@1 files => 2729 bytes
+2025/07/16-10:18:54.723 2fe compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/16-10:18:54.723 2fe Delete type=2 #24
+2025/07/16-10:18:54.723 2fe Delete type=2 #18
+2025/07/16-10:18:54.723 2fe Delete type=2 #22
+2025/07/16-10:18:54.723 2fe Delete type=2 #16
+2025/07/16-10:18:54.723 2fe Delete type=2 #20
+2025/07/17-02:29:44.637 2fe Level-0 table #27: started
+2025/07/17-02:29:44.641 2fe Level-0 table #27: 12762 bytes OK
+2025/07/17-02:29:44.644 2fe Delete type=0 #23
+2025/07/17-19:20:28.293 2fe Level-0 table #29: started
+2025/07/17-19:20:28.297 2fe Level-0 table #29: 13087 bytes OK
+2025/07/17-19:20:28.299 2fe Delete type=0 #26
+2025/07/18-18:41:34.084 2fe Level-0 table #31: started
+2025/07/18-18:41:34.087 2fe Level-0 table #31: 12973 bytes OK
+2025/07/18-18:41:34.092 2fe Delete type=0 #28
+2025/07/20-14:23:54.979 2fe Level-0 table #33: started
+2025/07/20-14:23:54.983 2fe Level-0 table #33: 11395 bytes OK
+2025/07/20-14:23:54.986 2fe Delete type=0 #30
+2025/07/20-14:23:54.987 2fe Compacting 4@0 + 1@1 files
+2025/07/20-14:23:54.994 2fe Generated table #34@0: 13 keys, 2742 bytes
+2025/07/20-14:23:54.994 2fe Compacted 4@0 + 1@1 files => 2742 bytes
+2025/07/20-14:23:54.996 2fe compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/20-14:23:54.996 2fe Delete type=2 #31
+2025/07/20-14:23:54.996 2fe Delete type=2 #27
+2025/07/20-14:23:54.996 2fe Delete type=2 #33
+2025/07/20-14:23:54.996 2fe Delete type=2 #25
+2025/07/20-14:23:54.996 2fe Delete type=2 #29
+2025/07/21-15:18:50.077 2fe Level-0 table #36: started
+2025/07/21-15:18:50.082 2fe Level-0 table #36: 12458 bytes OK
+2025/07/21-15:18:50.084 2fe Delete type=0 #32
+2025/07/22-08:56:06.765 2fe Level-0 table #38: started
+2025/07/22-08:56:06.769 2fe Level-0 table #38: 14172 bytes OK
+2025/07/22-08:56:06.772 2fe Delete type=0 #35
+2025/07/23-15:07:32.723 2fe Level-0 table #40: started
+2025/07/23-15:07:32.729 2fe Level-0 table #40: 11990 bytes OK
+2025/07/23-15:07:32.732 2fe Delete type=0 #37
+2025/07/24-13:37:05.297 2fe Level-0 table #42: started
+2025/07/24-13:37:05.300 2fe Level-0 table #42: 12903 bytes OK
+2025/07/24-13:37:05.303 2fe Delete type=0 #39
+2025/07/24-13:37:05.304 2fe Compacting 4@0 + 1@1 files
+2025/07/24-13:37:05.310 2fe Generated table #43@0: 13 keys, 2743 bytes
+2025/07/24-13:37:05.310 2fe Compacted 4@0 + 1@1 files => 2743 bytes
+2025/07/24-13:37:05.311 2fe compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/24-13:37:05.311 2fe Delete type=2 #36
+2025/07/24-13:37:05.312 2fe Delete type=2 #38
+2025/07/24-13:37:05.312 2fe Delete type=2 #40
+2025/07/24-13:37:05.312 2fe Delete type=2 #42
+2025/07/24-13:37:05.312 2fe Delete type=2 #34
+2025/07/25-13:29:49.128 2fe Level-0 table #45: started
+2025/07/25-13:29:49.134 2fe Level-0 table #45: 12331 bytes OK
+2025/07/25-13:29:49.138 2fe Delete type=0 #41
+2025/07/26-22:51:21.764 2fe Level-0 table #47: started
+2025/07/26-22:51:21.768 2fe Level-0 table #47: 11346 bytes OK
+2025/07/26-22:51:21.771 2fe Delete type=0 #44
+2025/07/28-10:23:22.375 2fe Level-0 table #49: started
+2025/07/28-10:23:22.379 2fe Level-0 table #49: 12741 bytes OK
+2025/07/28-10:23:22.383 2fe Delete type=0 #46
+2025/07/29-04:44:27.851 2fe Level-0 table #51: started
+2025/07/29-04:44:27.855 2fe Level-0 table #51: 13388 bytes OK
+2025/07/29-04:44:27.858 2fe Delete type=0 #48
+2025/07/29-04:44:27.860 2fe Compacting 4@0 + 1@1 files
+2025/07/29-04:44:27.864 2fe Generated table #52@0: 13 keys, 2753 bytes
+2025/07/29-04:44:27.864 2fe Compacted 4@0 + 1@1 files => 2753 bytes
+2025/07/29-04:44:27.866 2fe compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/29-04:44:27.866 2fe Delete type=2 #43
+2025/07/29-04:44:27.866 2fe Delete type=2 #51
+2025/07/29-04:44:27.866 2fe Delete type=2 #49
+2025/07/29-04:44:27.866 2fe Delete type=2 #45
+2025/07/29-04:44:27.866 2fe Delete type=2 #47
